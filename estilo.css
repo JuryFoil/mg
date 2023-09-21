@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 1%;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    background-color: rgb(89, 89, 230);
+    color:rgb(3, 18, 31)
+    padding: 20px;
+}
+nav ul{
+    background-color:black
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+nav li{
+     display: inline-flex;
+}
+nav a {
+    text_decoration: none;
+    color: rgb(3, 14, 23);
+    padding: 10px;
+    width: 150px;
+}
+nav li:hover {
+    background-color: red;
+}# mg
